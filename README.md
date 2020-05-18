@@ -9,3 +9,5 @@ Simple clone the repository and move "Azure" and "Azure-Dark" to `~/.themes` or 
 
 ![Azure-Dark](https://raw.githubusercontent.com/berkcodes/azure-theme/master/azure-dark.png)
 
+![Azure-Pastel](https://raw.githubusercontent.com/berkcodes/azure-theme/master/azure-pastel.png)
+
