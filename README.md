@@ -8,9 +8,12 @@ cd /tmp/ && git clone https://github.com/berkcodes/azure-theme.git && cd azure-t
 ```
 
 ## Screenshots
+***Azure***
 ![Azure](https://raw.githubusercontent.com/berkcodes/azure-theme/master/azure.png)
 
+***Azure Dark***
 ![Azure-Dark](https://raw.githubusercontent.com/berkcodes/azure-theme/master/azure-dark.png)
 
+***Azure Pastel***
 ![Azure-Pastel](https://raw.githubusercontent.com/berkcodes/azure-theme/master/azure-pastel.png)
 
